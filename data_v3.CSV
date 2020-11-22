@@ -1,0 +1,101 @@
+realm,proportion,salary,hour,distance,name
+0.7,0.7,750,48,5.6,Operation and maintenance engineer
+0.7,0.3,456,24,10,Internet bar administrator
+1.1,0,1061,56,7.1,Internet bar attendant
+1.1,0,700,56,4,Internet bar attendant
+1.1,0,1050,49,3.5,Internet bar attendant
+1.1,0,700,56,2.4,Internet bar attendant
+1.1,0,1512,54,3.9,Internet bar attendant
+1.1,0,700,28,10,Internet bar attendant
+0.7,0.7,1166,54,8.1,Java Software Development Intern
+0.7,0.3,600,34,5.1,Senior Internet bar attendant
+0.9,0,750,40,4.8,Internetbar cleaner
+0.7,0.7,875,56,2.7,network maintenance
+0.7,0.9,456,24,3.5,Application operation management
+0.8,0.7,1560,48,3.5,Tiktok Application operation management
+0.8,0.7,1960,21,10,Bank Application operation management
+0.8,0.6,1120,42,5.6,factory Application operation management
+0.8,0.9,728,40,4.1,schoolApplication operation management
+0.8,0.8,700,56,9.4,game developer
+0.8,0.7,1104,48,5,python Intern
+0.7,0.8,1334,48,2.1,C++ intern
+0.9,0.9,800,26,1.7,network optimization
+51.1,0.6,750,48,5.6,Financial legal adviser
+51.1,0.6,456,24,10,Financial legal adviser
+50.8,0.3,1061,56,7.1,Internet company warehouse accounting
+50.8,0.3,700,56,4,Internet company warehouse accounting
+50.8,0.3,1050,49,3.5,Internet company warehouse accounting
+50.8,0.3,700,56,2.4,Internet company warehouse accounting
+50.8,0.3,1512,54,3.9,Internet company warehouse accounting
+50.8,0.3,700,28,10,Internet company warehouse accounting
+51.2,0.6,1166,54,8.1,Senior Accounting Legal Manager
+51.2,0.6,600,34,5.1,Senior Accounting Legal Manager
+50.9,0.7,750,40,4.8,Network company data analyst
+50.9,0.7,875,56,2.7,Network company data analyst
+50.9,0.7,456,24,3.5,Network company data analyst
+51.3,0.2,1560,48,3.5,Settlement of financial legal disputes
+51.3,0.2,1960,21,10,Settlement of financial legal disputes
+51.3,0.3,1120,42,5.6,Tax payer
+51.3,0.3,728,40,4.1,Tax payer
+51.3,0.2,700,56,9.4,Investment project consultant
+51.3,0.3,1104,48,5,Investment project consultant
+50.7,0.7,1334,48,2.1,Internet company revenue analyst
+100.9,0.7,800,26,1.7,Investment analyst for Internet companies
+101.1,0.4,600,34,5.1,Sales Representative
+100.8,0.6,750,40,4.8,Insurance planner
+101.3,0.6,875,56,2.7,lawyer
+101.3,0.6,456,24,3.5,lawyer
+100.8,0.1,1560,48,3.5,Assistant investment lawyer
+100.8,0.1,1960,21,10,Assistant investment lawyer
+100.8,0.1,1120,42,5.6,Assistant investment lawyer
+101.4,0.3,728,40,4.1,Legal sales representative
+101.4,0.3,700,56,9.4,Legal sales representative
+101.4,0.3,1104,48,5,Legal sales representative
+101.1,0.4,1334,48,2.1,Product legal agent
+101.1,0.4,800,26,1.7,Product legal agent
+101.6,0.6,750,48,5.6,Sales Representative
+101.6,0.6,456,24,10,Sales Representative
+100.5,0.8,1061,56,7.1,Wealth planner
+150.9,0.7,1050,49,3.5,Legal sales representative
+150.8,0.4,700,56,2.4,Insurance salesman
+150.7,0.3,1512,54,3.9,Car insurance salesman
+150.6,0.2,700,28,10,Health insurance salesman
+151.5,0.6,1166,54,8.1,senior Service plan planner
+151.4,0.7,600,34,5.1, service solution planner
+151.1,0.4,750,40,4.8,User experience salesman
+151.2,0.8,875,56,2.7,Domestic service planner
+151.3,0.9,456,24,3.5,Enterprise planning consultant
+151.4,0.1,1560,48,3.5,Domestic service salesman
+200.9,0.6,750,48,5.6,cashier
+200.8,0.8,456,24,10,Sales performance recorder
+200.7,0.4,1061,56,7.1,postman
+200.6,0.2,700,56,4,taxi driver
+200.5,0.3,1050,49,3.5,part time driver
+200.4,0.2,700,56,2.4,Full time driver
+200.3,0.4,1512,54,3.9,Delivery man
+200.2,0.3,700,28,10,Distributor
+200.1,0.7,1166,54,8.1,Business activity planning
+200.2,0.8,600,34,5.1,Private event planning
+201.3,0.4,750,40,4.8,medical service
+201.4,0.9,875,56,2.7,Medical service planning
+201.5,0.7,456,24,3.5,Fitness coach
+201.6,0.3,1560,48,3.5,massagist
+201.7,0.2,1960,21,10,Health food chef
+201.5,0.4,1120,42,5.6,Health food divider
+250.9,0.1,1050,49,3.5,Medical masseur
+250.8,0.3,700,56,2.4,Podiatrist
+250.6,0.4,1512,54,3.9,pharmacist
+250.7,0.4,700,28,10,nurse
+250.6,0.7,1166,54,8.1,Outpatient doctors
+250.5,0.8,600,34,5.1,Associate outpatient doctor
+250.7,0.2,750,40,4.8,surgeon
+250.7,0.8,875,56,2.7,Medical administrator
+250.6,0.9,456,24,3.5,Medical Finance Officer
+250.3,0.2,1560,48,3.5,Professional nursing
+251.6,0.3,1960,21,10,Beautician
+251.2,0.2,1120,42,5.6,Rehabilitation trainer
+251.4,0.1,728,40,4.1,Doctor of traditional Chinese Medicine
+251.9,0.4,700,56,9.4,Physical trainer
+251.6,0.4,1104,48,5,Private nursing
+251.5,0.7,1334,48,2.1,Psychological consultation teacher
+251.1,0.4,800,26,1.7,Drug distributor
